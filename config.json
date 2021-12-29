@@ -15,7 +15,8 @@
     "no_of_posts": 2,
     "login_img": "login.svg",
     "admin_user": "Nishant",
-    "admin_password": "123456"
+    "admin_password": "123456",
+    "upload_location": "C:\\Users\\ADMIN\\Desktop\\Flask\\static"
 
   }
 
